@@ -8,10 +8,10 @@ GitHub Pages.
 ## Contents
 
 ```
-index.html          Main page
-assets/style.css     Styles
-assets/script.js     Scroll-reveal + footer year
-README.md            This file
+index.html    Main page
+style.css     Styles
+script.js     Scroll-reveal + footer year
+README.md     This file
 ```
 
 ## Deploy on GitHub Pages (step by step)
@@ -24,7 +24,7 @@ README.md            This file
 
 2. **Upload these files**
    - On the new repo page, click **"uploading an existing file"**
-   - Drag in `index.html`, the `assets` folder, and this `README.md`
+   - Drag in `index.html`, `style.css`, `script.js`, and this `README.md`
    - Commit the changes
 
 3. **Turn on GitHub Pages**
@@ -43,7 +43,7 @@ README.md            This file
   update the relevant section (education, experience, project, skills,
   achievements, contact).
 - Colors, fonts, and spacing are controlled from the `:root` variables at the
-  top of `assets/style.css`.
+  top of `style.css`.
 
 ## Using a custom domain (optional)
 
